@@ -1,0 +1,12 @@
+/* hok.html = hok.css > hok.js */
+
+body {
+  font-family: helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+  font-style: bold;
+  font-size: 30px;
+  color: blue;
+}

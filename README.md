@@ -1,2 +1,3 @@
-# hok.html
-hok.html
+# hok
+hok
+### hok.html = hok.css > hok.js

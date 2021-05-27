@@ -5,8 +5,37 @@ body {
   margin: 2em;
 }
 
+center {
+  font-style: bold;
+  font-size: 30px;
+  color: white;
+
 h1 {
   font-style: bold;
   font-size: 30px;
-  color: blue;
+  color: white;
+}
+
+h2 {
+  font-style: bold;
+  font-size: 30px;
+  color: white;
+}
+
+h3 {
+  font-style: bold;
+  font-size: 30px;
+  color: white;
+}
+
+h4 {
+  font-style: bold;
+  font-size: 30px;
+  color: white;
+}
+
+p {
+  font-style: bold;
+  font-size: 30px;
+  color: white;
 }
